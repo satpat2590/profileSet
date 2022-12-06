@@ -1,0 +1,18 @@
+2022-11-02 20:11:44,983 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2022-11-02 20:11:44,986 DEBUG    root            Running [gcloud.version] with arguments: [--format: "json"]
+2022-11-02 20:11:45,024 INFO     root            Display format: "flattened[no-pad,separator=" "] json"
+2022-11-02 20:11:45,024 INFO     ___FILE_ONLY___ {
+  "Google Cloud SDK": "408.0.1",
+  "alpha": "2022.11.01",
+  "beta": "2022.11.01",
+  "bq": "2.0.81",
+  "core": "2022.11.01",
+  "gcloud-crc32c": "1.0.0",
+  "gke-gcloud-auth-plugin": "0.4.0",
+  "gsutil": "5.16",
+  "kubectl": "1.22.14",
+  "minikube": "1.27.0",
+  "skaffold": "1.39.3"
+}
+2022-11-02 20:11:45,025 INFO     ___FILE_ONLY___ 
+
