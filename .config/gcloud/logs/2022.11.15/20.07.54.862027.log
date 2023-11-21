@@ -1,8 +1,0 @@
-2022-11-15 20:07:54,864 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
-2022-11-15 20:07:54,873 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'list']
-2022-11-15 20:07:54,877 DEBUG    root            Running [gcloud.auth.list] with arguments: [--filter: "status=ACTIVE", --format: "value(account)", --quiet: "True", --verbosity: "warning"]
-2022-11-15 20:07:54,913 INFO     root            Display format: "    table[title='Credentialed Accounts'](
-        status.yesno(yes='*', no=''):label=ACTIVE,
-        account
-    ) value(account)"
-2022-11-15 20:07:54,913 WARNING  root            The following filter keys were not present in any resource : status
